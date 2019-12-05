@@ -5,6 +5,6 @@ title: blog
 
 # Liam's Website
 ### Liam is a very famous person, but you probably haven't heard of him.
-![cat](https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png)
+![cat](https://petco.scene7.com/is/image/PETCO/cathp-092619-img-new-pet-kitten-256w-256h-d)
 <hr>
-<h1> ** [donate](donate.md) ** </h1> 
+<bold><h1><a href='donate.md'>Donate to Liam</a></h1></bold>
