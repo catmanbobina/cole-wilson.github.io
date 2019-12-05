@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub, HTML5, JavaScript, Linux, Python,
-percentage: 85, 75, 65, 80, 95, 
+aspects: GitHub, HTML5, JavaScript, Linux, Python, PHP
+percentage: 85, 75, 65, 80, 95, 65
