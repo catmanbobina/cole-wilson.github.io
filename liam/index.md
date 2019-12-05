@@ -1,5 +1,1 @@
----
-layout: default
-title: Liam
----
-Liam's thingy
+# Liam's thingy
