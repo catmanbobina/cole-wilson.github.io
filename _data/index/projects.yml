@@ -5,7 +5,7 @@
   i18n: anaconda
   gh_user: cole-wilson
   repo: anaconda
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/graph.png
   desc: A graphing calculator built in Python with Turtle.
 
 - name: Bayan
@@ -14,4 +14,23 @@
   repo: bayan
   img: /static/assets/img/landing/python.png
   desc: This is an very basic machine learning program built in Python
-  
+
+- name: Visit New York
+  i18n: vist-ny
+  gh_user: cole-wilson
+  repo: visit-new-york
+  img: /static/assets/img/landing/ny.png
+  desc: This was a school project, but it's interesting to look at.
+ 
+- name: SumoBot
+  i18n: bayan
+  gh_user: cole-wilson
+  repo: sumo
+  img: /static/assets/img/landing/ev3.png
+  desc: A school robotics project using the ev3dev library.
+
+- name: IEP Tracker
+  gh_user: cole-wilson
+  repo: iep
+  img: /static/assets/img/landing/python.png
+  desc: More info to come.
