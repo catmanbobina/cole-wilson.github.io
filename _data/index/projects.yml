@@ -19,7 +19,7 @@
   i18n: vist-ny
   gh_user: cole-wilson
   repo: visit-new-york
-  img: /static/assets/img/landing/ny.png
+  img: /static/assets/img/landing/ny.jpg
   desc: This was a school project, but it's interesting to look at.
  
 - name: SumoBot
