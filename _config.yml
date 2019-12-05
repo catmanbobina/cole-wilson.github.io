@@ -1,8 +1,8 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: 'Cole Wilson'
-description: Jack's blog,use Jekyll and github pages.
+title: 
+description: 
 keywords: wilson,cole,html,python,github,gh-pages
 baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://cole-wilson.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
