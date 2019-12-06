@@ -3,6 +3,10 @@ layout: blog
 title: Liam's plan to buy the world
 ---
 
+<div onload="alert('THIS WEBSITE IS NOT RELATED TO COLE-WILSON.GITHUB.IO AT ALL');"></div>
+
+
+
 # Liam's Website
 ### Liam is a very famous person, most people don't know if him because he is from the country of catslavia which is for the most part unheard of.
 ![cat](https://petco.scene7.com/is/image/PETCO/cathp-092619-img-new-pet-kitten-256w-256h-d)
